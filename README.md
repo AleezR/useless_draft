@@ -27,15 +27,18 @@ For Software:
 - **APIs:** Groq API (free tier) for per-citizen AI personalities, with Google Gemini free tier as fallback
 - **Tools:** Cursor, Vercel (deployment), Git/GitHub
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here — e.g. the Citizen Directory / Census page)
-*Caption: the toilet citizen directory showing each stall's profile, zodiac sign, and stats*
+# Screenshots
+<img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/103dbbb3-bab2-4c65-9680-b9aede3b4794" />
+<img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/2456e5f0-0570-40ca-89de-0dc07a7f7497" />
+<img width="1917" height="1033" alt="image" src="https://github.com/user-attachments/assets/0f463bd7-dc0a-4b37-b074-b4c604a55b4b" />
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/c71029aa-e237-4903-8d22-fe9da9d07a6c" />
+<img width="1917" height="1040" alt="image" src="https://github.com/user-attachments/assets/6a238e92-b136-412c-8bd2-b0d54f2dd75c" />
+<img width="1917" height="1033" alt="image" src="https://github.com/user-attachments/assets/230cccd9-a9c9-4e44-98ab-5f5ef8ed9aa0" />
+<img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/8c42cd3f-b9c4-40a3-8c39-8db62e593c7c" />
+<img width="1917" height="1025" alt="image" src="https://github.com/user-attachments/assets/2d11a8d4-5851-466f-a081-08b4dc7634a8" />
+<img width="1917" height="1035" alt="image" src="https://github.com/user-attachments/assets/779bd9d2-0bba-411b-a78e-b71d5d3196d4" />
 
-![Screenshot2](Add screenshot 2 here — e.g. the Elections page)
-*Caption: election results with AI-generated candidate manifestos*
 
-![Screenshot3](Add screenshot 3 here — e.g. the AI chat interface)
-*Caption: chatting live with a toilet's AI persona*
 
 ### Project Demo
 # Video
