@@ -27,6 +27,13 @@ For Software:
 - **APIs:** Groq API (free tier) for per-citizen AI personalities, with Google Gemini free tier as fallback
 - **Tools:** Cursor, Vercel (deployment), Git/GitHub
 
+### Project Demo
+# Video
+[Add your demo video link here]
+
+# Presentation
+[PPT Link](https://canva.link/ydl7bzy8lhajlml)
+
 # Screenshots
 <img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/103dbbb3-bab2-4c65-9680-b9aede3b4794" />
 <img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/2456e5f0-0570-40ca-89de-0dc07a7f7497" />
@@ -37,13 +44,6 @@ For Software:
 <img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/8c42cd3f-b9c4-40a3-8c39-8db62e593c7c" />
 <img width="1917" height="1025" alt="image" src="https://github.com/user-attachments/assets/2d11a8d4-5851-466f-a081-08b4dc7634a8" />
 <img width="1917" height="1035" alt="image" src="https://github.com/user-attachments/assets/779bd9d2-0bba-411b-a78e-b71d5d3196d4" />
-
-
-
-### Project Demo
-# Video
-[Add your demo video link here]
-
 
 
 ---
