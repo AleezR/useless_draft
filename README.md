@@ -7,7 +7,6 @@
 ### Team Members
 - Team Lead: ALEENA RACHEL MANOJ - St. Joseph's College of Engineering and Technology
 - Member 2: RISHITA - St. Joseph's College of Engineering and Technology
-- Member 3: [Name] - [College]
 
 ### Project Description
 Flushverse is a satirical civilization simulator where every toilet on campus is treated as a full citizen — complete with its own economy, elections, sports league, dating app, and AI-powered personality you can actually chat with.
@@ -28,29 +27,6 @@ For Software:
 - **APIs:** Groq API (free tier) for per-citizen AI personalities, with Google Gemini free tier as fallback
 - **Tools:** Cursor, Vercel (deployment), Git/GitHub
 
-### Implementation
-For Software:
-
-# Installation
-```bash
-git clone <your-repo-url>
-cd flushverse
-npm install
-```
-
-Create a `.env` file in the root with your API key(s):
-```
-GROQ_API_KEY=your_key_here
-```
-
-# Run
-```bash
-npm run dev
-```
-
-### Project Documentation
-For Software:
-
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here — e.g. the Citizen Directory / Census page)
 *Caption: the toilet citizen directory showing each stall's profile, zodiac sign, and stats*
@@ -61,22 +37,11 @@ For Software:
 ![Screenshot3](Add screenshot 3 here — e.g. the AI chat interface)
 *Caption: chatting live with a toilet's AI persona*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Caption: how a user request flows from the frontend → backend → Groq API → back to the citizen's chat window*
-
 ### Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates — e.g. walking through the News Network landing page, voting in an election, chatting with a toilet, and triggering the Captain Plunger button*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- ALEENA RACHEL MANOJ: [e.g. frontend build, UI/UX, feature X]
-- RISHITA: [e.g. backend/API integration, feature Y]
-- [Member 3]: [contribution]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects
